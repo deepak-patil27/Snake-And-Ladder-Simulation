@@ -40,5 +40,4 @@ public class UC6_NoOfTimesPlayed {
 	           System.out.println("\nCongratulations you won! \n after Die Rolled " + count+" position ");
 	    }
 
-
 }
